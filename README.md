@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanyaDeath
 - 👀 I’m interested in music
-- 🌱 I’m currently learning Python sss
+- 🌱 I’m currently learning RabbitMQ, Celery
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  IG='@ecocenteraudio' 
                       MAIL='alexeybwm@gmail.com'
