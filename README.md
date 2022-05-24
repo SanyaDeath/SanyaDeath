@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @SanyaDeath
-- 👀 I’m interested in music
-- 🌱 I’m currently learning RabbitMQ, Celery
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  IG='@ecocenteraudio' 
-                      MAIL='alexeybwm@gmail.com'
-                      TG='@ecocenteraudio' 
+- 👀
 
 <!---
 SanyaDeath/SanyaDeath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
