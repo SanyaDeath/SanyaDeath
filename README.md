@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @SanyaDeath
-- 👀
+👋 Hi, I’m @SanyaDeath
+
+Average infrastructure-as-code enjoyer.
 
 <!---
 SanyaDeath/SanyaDeath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
